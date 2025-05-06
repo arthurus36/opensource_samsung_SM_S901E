@@ -1,4 +1,0 @@
-#include "neo-idp.dtsi"
-
-&soc {
-};
